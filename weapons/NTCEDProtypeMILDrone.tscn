@@ -1,0 +1,12 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://weapons/drone-plant.tscn" type="PackedScene" id=1]
+
+[node name="drone-plant" instance=ExtResource( 1 )]
+powerDraw = 47500.0
+systemName = "SYSTEM_DND_PMDrone"
+dronesPerSecond = 100
+maxDroneDistance = 10000
+haulVelocity = 185
+shoveVelocity = 275
+droneFunction = "haul"
