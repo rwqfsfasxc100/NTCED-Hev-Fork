@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://weapons/drone-plant.tscn" type="PackedScene" id=1]
+[ext_resource path="res://NTCED Parts/weapons/drone-plant.patch.gd" type="Script" id=2]
+
+[node name="drone-plant" instance=ExtResource( 1 )]
+region_rect = Rect2( 114, 127, 0, 0 )
+script = ExtResource( 2 )
+powerDraw = 55000.0
+systemName = "SYSTEM_DND_EHCDrone"
+dronesPerSecond = 65
+laserRange = 6000
+maxDroneDistance = 6000
+haulVelocity = 115
+shoveVelocity = 215
+droneFunction = "haul"
