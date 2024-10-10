@@ -1,0 +1,37 @@
+locale|en
+
+SYSTEM_DND_EHCDrone|NTCED Extended Harvester Class
+
+SYSTEM_DND_EHCDrone_DESC|One of the first equipment offerings from Nishikawa Technologies Corporate Engineering Division, it expands on Minding LF's Haul drones, used on small class stations to extend sustuinable within the Rings.
+
+SYSTEM_DND_EHCDrone_SPECS|Power draw: 55 MW \nEffective range: 600 m (line of sight) \nDrone launch capability: 65 dps \nMass: 4,000 kg \nManufacturer: Nishikawa Technologies Corporate Engineering Division
+
+SYSTEM_DND_EHCDrone_MANUAL|Moves ore and lifepods automatically towards cargo hold. \nOre targeting criteria can be adjusted on the Geologist tab. \nCan interface with compatible reconnaissance craft. \nRequires nanodrone components storage. \nManeuvers during operation will cause the system to attempt to adjust movement of all valid targets.
+
+
+
+SYSTEM_DND_XLEHCDrone|NTCED XLE Harvester Class
+
+SYSTEM_DND_XLEHCDrone_DESC|After 2 years after it's initial offering, the XLE model offers extended range from it's previous model, allowing for greater flexibly and safety while mining larger asteroids.
+
+SYSTEM_DND_XLEHCDrone_SPECS|Power draw: 70 MW \nEffective range: 800 m (line of sight) \nDrone launch capability: 75 dps \nMass: 4,000 kg \nManufacturer: Nishikawa Technologies Corporate Engineering Division
+
+SYSTEM_DND_XLEHCDrone_MANUAL|Moves ore and lifepods automatically towards cargo hold. \nOre targeting criteria can be adjusted on the Geologist tab. \nCan interface with compatible reconnaissance craft. \nRequires nanodrone components storage. \nManeuvers during operation will cause the system to attempt to adjust movement of all valid targets.
+
+
+SYSTEM_DND_PMDrone|NTCED Protype MIL-SPEC Miner Class
+
+SYSTEM_DND_PMDrone_DESC|A leaked protype model meant for the military back on Earth for it's mining ships, it offers a much more extensive range than the consumer models from NTCED.
+
+SYSTEM_DND_PMDrone_SPECS|Power draw: 115 MW \nEffective range: 1000 m (line of sight) \nDrone launch capability: 100 dps \nMass: 4,000 kg \nManufacturer: Nishikawa Technologies Corporate Engineering Division
+
+SYSTEM_DND_PMDrone_MANUAL|Moves ore and lifepods automatically towards cargo hold. \nOre targeting criteria can be adjusted on the Geologist tab. \nCan interface with compatible reconnaissance craft. \nRequires nanodrone components storage. \nManeuvers during operation will cause the system to attempt to adjust movement of all valid targets.
+
+
+SYSTEM_DND_PEXTMDrone|NTCED Protype Extended MIL-SPEC Miner Class
+
+SYSTEM_DND_PEXTMDrone_DESC|Another leaked protype model meant for Titan class mining ships that were aimed for deep space exploration. It's a highly unrefined model so it has a very high power draw and very wasteful in its drone use though the pros outweigh the cons with its capabilities.
+
+SYSTEM_DND_PEXTMDrone_SPECS|Power draw: 225 MW \nEffective range: 1200 m (line of sight) \nDrone launch capability: 275 dps \n Mass: 4,000 kg \nManufacturer: Nishikawa Technologies Corporate Engineering Division
+
+SYSTEM_DND_PEXTMDrone_MANUAL|Moves ore and lifepods automatically towards cargo hold. \nOre targeting criteria can be adjusted on the Geologist tab. \nCan interface with compatible reconnaissance craft. \nRequires nanodrone components storage. \nManeuvers during operation will cause the system to attempt to adjust movement of all valid targets.

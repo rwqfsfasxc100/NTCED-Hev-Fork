@@ -5,8 +5,8 @@
 [node name="SystemShipUpgradeUI" instance=ExtResource( 1 )]
 slot = "weaponSlot.main.type"
 system = "SYSTEM_DND_PEXTMDrone"
-price = 50
+price = 5000000
 testProtocol = "drone"
 
 [node name="System" parent="HBox" index="0"]
-text = "SYSTEM_DND_EHCDrone"
+text = "SYSTEM_DND_PEXTMDrone"

@@ -1,11 +1,14 @@
-[gd_scene load_steps=2 format=2]
+[gd_scene load_steps=3 format=2]
 
 [ext_resource path="res://weapons/drone-plant.tscn" type="PackedScene" id=1]
+[ext_resource path="res://NTCED Parts/weapons/drone-plant.patch.gd" type="Script" id=2]
 
 [node name="drone-plant" instance=ExtResource( 1 )]
-powerDraw = 47500.0
+script = ExtResource( 2 )
+powerDraw = 115000.0
 systemName = "SYSTEM_DND_PMDrone"
 dronesPerSecond = 100
+laserRange = 10000
 maxDroneDistance = 10000
 haulVelocity = 185
 shoveVelocity = 275

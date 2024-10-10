@@ -46,7 +46,7 @@ margin_top = 1387.0
 margin_right = 1196.0
 margin_bottom = 1457.0
 
-[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/MainWeaponSlot/VBoxContainer" index="36" instance=ExtResource( 4 )]
+[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/MainWeaponSlot/VBoxContainer" index="36" instance=ExtResource( 3 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 1461.0
@@ -60,7 +60,7 @@ margin_top = 1535.0
 margin_right = 1196.0
 margin_bottom = 1605.0
 
-[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/MainWeaponSlot/VBoxContainer" index="38" instance=ExtResource( 3 )]
+[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/MainWeaponSlot/VBoxContainer" index="38" instance=ExtResource( 4 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 1609.0
@@ -79,7 +79,7 @@ margin_top = 2.0
 margin_right = 1212.0
 margin_bottom = 1237.0
 
-[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/MainLowWeaponSlot" index="2" instance=ExtResource( 4 )]
+[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/MainLowWeaponSlot" index="2" instance=ExtResource( 3 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_left = 16.0
@@ -95,7 +95,7 @@ margin_top = 2.0
 margin_right = 1212.0
 margin_bottom = 1237.0
 
-[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/MainLowWeaponSlot" index="4" instance=ExtResource( 3 )]
+[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/MainLowWeaponSlot" index="4" instance=ExtResource( 4 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_left = 16.0
@@ -117,7 +117,7 @@ margin_top = 1387.0
 margin_right = 1196.0
 margin_bottom = 1457.0
 
-[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftHighStress/VBoxContainer" index="36" instance=ExtResource( 4 )]
+[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftHighStress/VBoxContainer" index="36" instance=ExtResource( 3 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 1461.0
@@ -131,7 +131,7 @@ margin_top = 1535.0
 margin_right = 1196.0
 margin_bottom = 1605.0
 
-[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftHighStress/VBoxContainer" index="38" instance=ExtResource( 3 )]
+[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftHighStress/VBoxContainer" index="38" instance=ExtResource( 4 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 1609.0
@@ -152,7 +152,7 @@ margin_top = 1387.0
 margin_right = 1196.0
 margin_bottom = 1457.0
 
-[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightHighStress/VBoxContainer" index="36" instance=ExtResource( 4 )]
+[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightHighStress/VBoxContainer" index="36" instance=ExtResource( 3 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 1461.0
@@ -166,7 +166,7 @@ margin_top = 1535.0
 margin_right = 1196.0
 margin_bottom = 1605.0
 
-[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightHighStress/VBoxContainer" index="38" instance=ExtResource( 3 )]
+[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightHighStress/VBoxContainer" index="38" instance=ExtResource( 4 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 1609.0
@@ -187,7 +187,7 @@ margin_top = 1609.0
 margin_right = 1196.0
 margin_bottom = 1679.0
 
-[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftWeaponSlot/VBoxContainer" index="36" instance=ExtResource( 4 )]
+[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftWeaponSlot/VBoxContainer" index="36" instance=ExtResource( 3 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 1683.0
@@ -201,7 +201,7 @@ margin_top = 1757.0
 margin_right = 1196.0
 margin_bottom = 1827.0
 
-[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftWeaponSlot/VBoxContainer" index="38" instance=ExtResource( 3 )]
+[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftWeaponSlot/VBoxContainer" index="38" instance=ExtResource( 4 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 1831.0
@@ -222,7 +222,7 @@ margin_top = 1239.0
 margin_right = 1196.0
 margin_bottom = 1309.0
 
-[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/MiddleLeftWeaponSlot/VBoxContainer" index="36" instance=ExtResource( 4 )]
+[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/MiddleLeftWeaponSlot/VBoxContainer" index="36" instance=ExtResource( 3 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 1313.0
@@ -236,7 +236,7 @@ margin_top = 1387.0
 margin_right = 1196.0
 margin_bottom = 1457.0
 
-[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/MiddleLeftWeaponSlot/VBoxContainer" index="38" instance=ExtResource( 3 )]
+[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/MiddleLeftWeaponSlot/VBoxContainer" index="38" instance=ExtResource( 4 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 1461.0
@@ -257,7 +257,7 @@ margin_top = 1609.0
 margin_right = 1196.0
 margin_bottom = 1679.0
 
-[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightWeaponSlot/VBoxContainer" index="36" instance=ExtResource( 4 )]
+[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightWeaponSlot/VBoxContainer" index="36" instance=ExtResource( 3 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 1683.0
@@ -271,7 +271,7 @@ margin_top = 1757.0
 margin_right = 1196.0
 margin_bottom = 1827.0
 
-[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightWeaponSlot/VBoxContainer" index="38" instance=ExtResource( 3 )]
+[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightWeaponSlot/VBoxContainer" index="38" instance=ExtResource( 4 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 1831.0
@@ -292,7 +292,7 @@ margin_top = 1239.0
 margin_right = 1196.0
 margin_bottom = 1309.0
 
-[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/MiddleRightWeaponSlot/VBoxContainer" index="36" instance=ExtResource( 4 )]
+[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/MiddleRightWeaponSlot/VBoxContainer" index="36" instance=ExtResource( 3 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 1313.0
@@ -306,7 +306,7 @@ margin_top = 1387.0
 margin_right = 1196.0
 margin_bottom = 1457.0
 
-[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/MiddleRightWeaponSlot/VBoxContainer" index="38" instance=ExtResource( 3 )]
+[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/MiddleRightWeaponSlot/VBoxContainer" index="38" instance=ExtResource( 4 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 1461.0
@@ -327,7 +327,7 @@ margin_top = 351.0
 margin_right = 1196.0
 margin_bottom = 421.0
 
-[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftDroneSlot/VBoxContainer" index="36" instance=ExtResource( 4 )]
+[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftDroneSlot/VBoxContainer" index="36" instance=ExtResource( 3 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 425.0
@@ -341,7 +341,7 @@ margin_top = 499.0
 margin_right = 1196.0
 margin_bottom = 569.0
 
-[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftDroneSlot/VBoxContainer" index="38" instance=ExtResource( 3 )]
+[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftDroneSlot/VBoxContainer" index="38" instance=ExtResource( 4 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 573.0
@@ -362,7 +362,7 @@ margin_top = 351.0
 margin_right = 1196.0
 margin_bottom = 421.0
 
-[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightDroneSlot/VBoxContainer" index="36" instance=ExtResource( 4 )]
+[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightDroneSlot/VBoxContainer" index="36" instance=ExtResource( 3 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 425.0
@@ -376,7 +376,7 @@ margin_top = 499.0
 margin_right = 1196.0
 margin_bottom = 569.0
 
-[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightDroneSlot/VBoxContainer" index="38" instance=ExtResource( 3 )]
+[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightDroneSlot/VBoxContainer" index="38" instance=ExtResource( 4 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 573.0
@@ -397,7 +397,7 @@ margin_top = 795.0
 margin_right = 1196.0
 margin_bottom = 865.0
 
-[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftRearSlot/VBoxContainer" index="36" instance=ExtResource( 4 )]
+[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftRearSlot/VBoxContainer" index="36" instance=ExtResource( 3 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 869.0
@@ -411,7 +411,7 @@ margin_top = 943.0
 margin_right = 1196.0
 margin_bottom = 1013.0
 
-[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftRearSlot/VBoxContainer" index="38" instance=ExtResource( 3 )]
+[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftRearSlot/VBoxContainer" index="38" instance=ExtResource( 4 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 1017.0
@@ -432,7 +432,7 @@ margin_top = 795.0
 margin_right = 1196.0
 margin_bottom = 865.0
 
-[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightRearSlot/VBoxContainer" index="36" instance=ExtResource( 4 )]
+[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightRearSlot/VBoxContainer" index="36" instance=ExtResource( 3 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 869.0
@@ -446,7 +446,7 @@ margin_top = 943.0
 margin_right = 1196.0
 margin_bottom = 1013.0
 
-[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightRearSlot/VBoxContainer" index="38" instance=ExtResource( 3 )]
+[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightRearSlot/VBoxContainer" index="38" instance=ExtResource( 4 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 1017.0
@@ -467,7 +467,7 @@ margin_top = 795.0
 margin_right = 1196.0
 margin_bottom = 865.0
 
-[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftBay1/VBoxContainer" index="36" instance=ExtResource( 4 )]
+[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftBay1/VBoxContainer" index="36" instance=ExtResource( 3 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 869.0
@@ -481,7 +481,7 @@ margin_top = 943.0
 margin_right = 1196.0
 margin_bottom = 1013.0
 
-[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftBay1/VBoxContainer" index="38" instance=ExtResource( 3 )]
+[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftBay1/VBoxContainer" index="38" instance=ExtResource( 4 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 1017.0
@@ -502,7 +502,7 @@ margin_top = 795.0
 margin_right = 1196.0
 margin_bottom = 865.0
 
-[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightBay1/VBoxContainer" index="36" instance=ExtResource( 4 )]
+[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightBay1/VBoxContainer" index="36" instance=ExtResource( 3 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 869.0
@@ -516,7 +516,7 @@ margin_top = 943.0
 margin_right = 1196.0
 margin_bottom = 1013.0
 
-[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightBay1/VBoxContainer" index="38" instance=ExtResource( 3 )]
+[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightBay1/VBoxContainer" index="38" instance=ExtResource( 4 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 1017.0
@@ -537,7 +537,7 @@ margin_top = 721.0
 margin_right = 1196.0
 margin_bottom = 791.0
 
-[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftBay2/VBoxContainer" index="36" instance=ExtResource( 4 )]
+[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftBay2/VBoxContainer" index="36" instance=ExtResource( 3 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 795.0
@@ -551,7 +551,7 @@ margin_top = 869.0
 margin_right = 1196.0
 margin_bottom = 939.0
 
-[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftBay2/VBoxContainer" index="38" instance=ExtResource( 3 )]
+[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftBay2/VBoxContainer" index="38" instance=ExtResource( 4 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 943.0
@@ -572,7 +572,7 @@ margin_top = 721.0
 margin_right = 1196.0
 margin_bottom = 791.0
 
-[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightBay2/VBoxContainer" index="36" instance=ExtResource( 4 )]
+[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightBay2/VBoxContainer" index="36" instance=ExtResource( 3 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 795.0
@@ -586,7 +586,7 @@ margin_top = 869.0
 margin_right = 1196.0
 margin_bottom = 939.0
 
-[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightBay2/VBoxContainer" index="38" instance=ExtResource( 3 )]
+[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightBay2/VBoxContainer" index="38" instance=ExtResource( 4 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 943.0
@@ -607,7 +607,7 @@ margin_top = 721.0
 margin_right = 1196.0
 margin_bottom = 791.0
 
-[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftBay3/VBoxContainer" index="36" instance=ExtResource( 4 )]
+[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftBay3/VBoxContainer" index="36" instance=ExtResource( 3 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 795.0
@@ -621,7 +621,7 @@ margin_top = 869.0
 margin_right = 1196.0
 margin_bottom = 939.0
 
-[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftBay3/VBoxContainer" index="38" instance=ExtResource( 3 )]
+[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/LeftBay3/VBoxContainer" index="38" instance=ExtResource( 4 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 943.0
@@ -642,7 +642,7 @@ margin_top = 721.0
 margin_right = 1196.0
 margin_bottom = 791.0
 
-[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightBay3/VBoxContainer" index="36" instance=ExtResource( 4 )]
+[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightBay3/VBoxContainer" index="36" instance=ExtResource( 3 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 795.0
@@ -656,7 +656,7 @@ margin_top = 869.0
 margin_right = 1196.0
 margin_bottom = 939.0
 
-[node name="DND_XLEHC" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightBay3/VBoxContainer" index="38" instance=ExtResource( 3 )]
+[node name="DND_PEXTM" parent="VB/MarginContainer/ScrollContainer/MarginContainer/Items/RightBay3/VBoxContainer" index="38" instance=ExtResource( 4 )]
 anchor_right = 0.0
 anchor_bottom = 0.0
 margin_top = 943.0
