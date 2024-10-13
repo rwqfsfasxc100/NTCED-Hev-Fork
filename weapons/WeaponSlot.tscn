@@ -4,14 +4,20 @@
 
 [node name="WeaponSlot" instance=ExtResource( 1 )]
 
-[node name="SYSTEM_DND_EHCDrone" parent="." index="36" instance_placeholder="res://NTCED Parts/weapons/NTCEDExtendedHarvesterClassDrone.tscn"]
+[node name="SYSTEM_DND_DHMOD" parent="." index="36" instance_placeholder="res://NTCED Parts Pack/weapons/NTCEDDualHaulerMOD.tscn"]
 visible = false
 
-[node name="SYSTEM_DND_XLEHCDrone" parent="." index="37" instance_placeholder="res://NTCED Parts/weapons/NTCEDXLEHarvesterClassDrone.tscn"]
+[node name="SYSTEM_DND_EHCDrone" parent="." index="37" instance_placeholder="res://NTCED Parts Pack/weapons/NTCEDExtendedHarvesterClassDrone.tscn"]
 visible = false
 
-[node name="SYSTEM_DND_PMDrone" parent="." index="38" instance_placeholder="res://NTCED Parts/weapons/NTCEDProtypeMILDrone.tscn"]
+[node name="SYSTEM_DND_XLEHCDrone" parent="." index="38" instance_placeholder="res://NTCED Parts Pack/weapons/NTCEDXLEHarvesterClassDrone.tscn"]
 visible = false
 
-[node name="SYSTEM_DND_PEXTMDrone" parent="." index="39" instance_placeholder="res://NTCED Parts/weapons/NTCEDProtypeEXTMILDrone.tscn"]
+[node name="SYSTEM_DND_DHHC" parent="." index="39" instance_placeholder="res://NTCED Parts Pack/weapons/NTCEDDualHybirdHarvesterClass.tscn"]
+visible = false
+
+[node name="SYSTEM_DND_PMDrone" parent="." index="40" instance_placeholder="res://NTCED Parts Pack/weapons/NTCEDProtypeMILDrone.tscn"]
+visible = false
+
+[node name="SYSTEM_DND_PEXTMDrone" parent="." index="41" instance_placeholder="res://NTCED Parts Pack/weapons/NTCEDProtypeEXTMILDrone.tscn"]
 visible = false

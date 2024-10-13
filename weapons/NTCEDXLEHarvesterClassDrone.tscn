@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=2]
 
 [ext_resource path="res://weapons/drone-plant.tscn" type="PackedScene" id=1]
-[ext_resource path="res://NTCED Parts/weapons/drone-plant.patch.gd" type="Script" id=2]
+[ext_resource path="res://NTCED Parts Pack/weapons/drone-plant.patch.gd" type="Script" id=2]
 
 [node name="drone-plant" instance=ExtResource( 1 )]
 script = ExtResource( 2 )
@@ -10,6 +10,7 @@ systemName = "SYSTEM_DND_XLEHCDrone"
 dronesPerSecond = 75
 laserRange = 8000
 maxDroneDistance = 8000
-haulVelocity = 135
-shoveVelocity = 230
+droneTugPower = 65.0
+haulVelocity = 145
+shoveVelocity = 250
 droneFunction = "haul"
