@@ -1,5 +1,15 @@
 locale|en
 
+
+SYSTEM_DND_DHMOD|NTCED Dual Haulers M.O.D.
+
+SYSTEM_DND_DHMOD_DESC|A modified verison of Minding LF's Hual drones, this has the same range as the standard MLF Drone but allowing two drones to be launched simultaneously at the cost of higher power draw. Very popular with Titan class ships as it allowed for longer mining expeditions.
+
+SYSTEM_DND_DHMOD_SPECS|Power draw: 80 MW \nEffective range: 400 m (line of sight) \nDrone launch capability: 55 dps \nDrone Amount: 2 Drones \nMass: 4,000 kg \nManufacturer: Nishikawa Technologies Corporate Engineering Division
+
+SYSTEM_DND_DHMOD_MANUAL|Moves ore and lifepods automatically towards cargo hold. \nOre targeting criteria can be adjusted on the Geologist tab. \nCan interface with compatible reconnaissance craft. \nRequires nanodrone components storage. \nManeuvers during operation will cause the system to attempt to adjust movement of all valid targets.
+
+
 SYSTEM_DND_EHCDrone|NTCED Extended Harvester Class
 
 SYSTEM_DND_EHCDrone_DESC|One of the first equipment offerings from Nishikawa Technologies Corporate Engineering Division, it expands on Minding LF's Haul drones, used on small class stations to extend sustuinable within the Rings.
@@ -17,6 +27,15 @@ SYSTEM_DND_XLEHCDrone_DESC|After 2 years after it's initial offering, the XLE mo
 SYSTEM_DND_XLEHCDrone_SPECS|Power draw: 70 MW \nEffective range: 800 m (line of sight) \nDrone launch capability: 75 dps \nMass: 4,000 kg \nManufacturer: Nishikawa Technologies Corporate Engineering Division
 
 SYSTEM_DND_XLEHCDrone_MANUAL|Moves ore and lifepods automatically towards cargo hold. \nOre targeting criteria can be adjusted on the Geologist tab. \nCan interface with compatible reconnaissance craft. \nRequires nanodrone components storage. \nManeuvers during operation will cause the system to attempt to adjust movement of all valid targets.
+
+
+SYSTEM_DND_DHHC|NTCED Dual Hybird Harvester Class
+
+SYSTEM_DND_DHHC_DESC|This model is the most exclusive and premium offering from NTCED, the hybird harvester class combines the XLE model and it's first tinkerings with dual drones launchers into a very formidable class of its own. While on the pricer side of things, the model only increases by a 5 MW difference while having extended ranges of 950 meters, allowing stations and mining ships alike to sustain themsevles for months on end within Saturn's rings.
+
+SYSTEM_DND_DHHC_SPECS|Power draw: 85 MW \nEffective range: 950 m (line of sight) \nDrone launch capability: 80 dps \nDrone Amount: 2 Drones \nMass: 4,000 kg \nManufacturer: Nishikawa Technologies Corporate Engineering Division
+
+SYSTEM_DND_DHHC_MANUAL|Moves ore and lifepods automatically towards cargo hold. \nOre targeting criteria can be adjusted on the Geologist tab. \nCan interface with compatible reconnaissance craft. \nRequires nanodrone components storage. \nManeuvers during operation will cause the system to attempt to adjust movement of all valid targets.
 
 
 SYSTEM_DND_PMDrone|NTCED Protype MIL-SPEC Miner Class

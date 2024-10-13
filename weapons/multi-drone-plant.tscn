@@ -1,0 +1,22 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://weapons/drone-plant.tscn" type="PackedScene" id=1]
+[ext_resource path="res://NTCED Parts Pack/weapons/multi-drone-plant.gd" type="Script" id=2]
+[ext_resource path="res://NTCED Parts Pack/ProcessHandler.gd" type="Script" id=3]
+
+[sub_resource type="CircleShape2D" id=1]
+radius = 4000.0
+
+[node name="multi-drone-plant" instance=ExtResource( 1 )]
+script = ExtResource( 2 )
+systemName = "SYSTEM_DND_MULTI"
+drone_amount = 1
+patchCurrentTargetBias = false
+
+[node name="ProcessHandler" type="Node2D" parent="." index="0"]
+script = ExtResource( 3 )
+node = NodePath("..")
+physics = true
+
+[node name="Shape" parent="DronePickupArea" index="0"]
+shape = SubResource( 1 )
