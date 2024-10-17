@@ -3,11 +3,13 @@
 [ext_resource path="res://NTCED Parts Pack/weapons/multi-drone-plant.tscn" type="PackedScene" id=1]
 
 [node name="multi-drone-plant" instance=ExtResource( 1 )]
+repairReplacementPrice = 2225000
 powerDraw = 85000.0
 systemName = "SYSTEM_DND_DHHC"
 dronesPerSecond = 80
 laserRange = 9500
 maxDroneDistance = 9500
+minEnergyToTarget = 1
 droneTugPower = 80.0
 haulVelocity = 165
 shoveVelocity = 265

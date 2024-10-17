@@ -5,11 +5,13 @@
 
 [node name="drone-plant" instance=ExtResource( 1 )]
 script = ExtResource( 2 )
+repairReplacementPrice = 1750000
 powerDraw = 70000.0
 systemName = "SYSTEM_DND_XLEHCDrone"
 dronesPerSecond = 75
 laserRange = 8000
 maxDroneDistance = 8000
+minEnergyToTarget = 1
 droneTugPower = 65.0
 haulVelocity = 145
 shoveVelocity = 250
