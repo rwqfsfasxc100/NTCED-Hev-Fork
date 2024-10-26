@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=2]
 
-[ext_resource path="res://NTCED Parts Pack/weapons/multi-drone-plant.tscn" type="PackedScene" id=1]
+[ext_resource path="res://NTCED Parts Pack/weapons/advanced-drone-plant.tscn" type="PackedScene" id=1]
 
 [node name="multi-drone-plant" instance=ExtResource( 1 )]
 repairReplacementPrice = 2225000
@@ -13,5 +13,7 @@ minEnergyToTarget = 1
 droneTugPower = 80.0
 haulVelocity = 165
 shoveVelocity = 265
+builtInDroneStorage = 3500
 droneFunction = "haul"
-drone_amount = 2
+mass = 6000
+droneAmount = 2

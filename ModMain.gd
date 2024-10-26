@@ -19,7 +19,7 @@ func _init(modLoader = ModLoader):
 	l("Initializing")
 
 	updateTL("i18n/en.txt", "|")
-	#updateTL("i18n/ua.txt", "|")
+	updateTL("i18n/ua.txt", "|")
 	replaceScene("enceladus/Upgrades.tscn")
 	replaceScene("weapons/WeaponSlot.tscn")
 	

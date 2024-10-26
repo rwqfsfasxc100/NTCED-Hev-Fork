@@ -1,22 +1,35 @@
 [gd_scene load_steps=5 format=2]
 
 [ext_resource path="res://weapons/drone-plant.tscn" type="PackedScene" id=1]
-[ext_resource path="res://NTCED Parts Pack/weapons/multi-drone-plant.gd" type="Script" id=2]
+[ext_resource path="res://NTCED Parts Pack/weapons/advanced-drone-plant.gd" type="Script" id=2]
 [ext_resource path="res://NTCED Parts Pack/ProcessHandler.gd" type="Script" id=3]
 
 [sub_resource type="CircleShape2D" id=1]
 radius = 4000.0
 
-[node name="multi-drone-plant" instance=ExtResource( 1 )]
+[node name="advanced-drone-plant" instance=ExtResource( 1 )]
 script = ExtResource( 2 )
 systemName = "SYSTEM_DND_MULTI"
-drone_amount = 1
+advancedFunction = "none"
+droneAmount = 1
 patchCurrentTargetBias = false
+yeetProtocol = false
+kineticAdjust = 1.0
+massLimit = 8.0
+massUpperLimit = 25000.0
+iffRequired = 0.75
+refineRate = 10.0
+lostMass = 10.0
+remassEfficiency = 0.0
+mineralEfficiency = 0.1
 
 [node name="ProcessHandler" type="Node2D" parent="." index="0"]
 script = ExtResource( 3 )
 node = NodePath("..")
-physics = true
+newPhysics = true
+
+[node name="DronePickupArea" parent="." index="5"]
+visible = false
 
 [node name="Shape" parent="DronePickupArea" index="0"]
 shape = SubResource( 1 )
