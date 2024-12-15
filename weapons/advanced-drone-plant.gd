@@ -35,6 +35,8 @@ var droneLaunchers := []
 #onready var drones = $DroneLaunchManager
 var playerLasers := []
 #onready var playerLaser = $Laser
+# Hashes of the launcher nodes for faster SANBUS checks
+var launcherHashes := []
 
 # Generate a new laser AudioStreamPlayer
 func newLaser():
@@ -87,6 +89,10 @@ func _ready():
 			newDust()
 			newLauncher(i, true)
 			returningDrones.append(0.0)
+# Pre-hash our launcher nodes if we are using SANBUS
+	if sanbus:
+		for launcher in droneLaunchers:
+			launcherHashes.append(hash(launcher))
 
 func _setEnabled(how:bool):
 	enabled = how
@@ -123,9 +129,14 @@ func wasTargetedLast(target, pastTargets: Array) -> bool:
 	else: return false
 
 # Check if we have valid sanbus lock
-func validSanbusTarget(target)->bool:
-	if sanbus and target in ship.systemTargets:
-		if not ship.systemTargets[target] in droneLaunchers:
+func validSanbusTarget(target:Node) -> bool:
+# Hash the target node for comparison with the SANBUS
+	var targetHash := hash(target)
+# If the SANBUS does have that node targeted
+	if sanbus and targetHash in ship.systemTargets.keys():
+	# If the node is not one of our launchers
+		if not ship.systemTargets[targetHash] in launcherHashes:
+		# It's not a free target
 			return false
 	return true
 
