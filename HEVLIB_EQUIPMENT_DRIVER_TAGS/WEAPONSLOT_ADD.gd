@@ -8,10 +8,10 @@ const SYSTEM_DND_DHMOD = {
 			"property":"visible",
 			"value":"false"
 		},
-		{
-			"property":"powerFailureCooldown",
-			"value":"2.0"
-		}
+#		{
+#			"property":"powerFailureCooldown",
+#			"value":"2.0"
+#		}
 	]
 }
 const SYSTEM_DND_EHCDrone = {
@@ -22,10 +22,10 @@ const SYSTEM_DND_EHCDrone = {
 			"property":"visible",
 			"value":"false"
 		},
-		{
-			"property":"powerFailureCooldown",
-			"value":"2.0"
-		}
+#		{
+#			"property":"powerFailureCooldown",
+#			"value":"2.0"
+#		}
 	]
 }
 const SYSTEM_DND_XLEHCDrone = {
@@ -36,10 +36,10 @@ const SYSTEM_DND_XLEHCDrone = {
 			"property":"visible",
 			"value":"false"
 		},
-		{
-			"property":"powerFailureCooldown",
-			"value":"2.0"
-		}
+#		{
+#			"property":"powerFailureCooldown",
+#			"value":"2.0"
+#		}
 	]
 }
 const SYSTEM_DND_DHHC = {
@@ -50,10 +50,10 @@ const SYSTEM_DND_DHHC = {
 			"property":"visible",
 			"value":"false"
 		},
-		{
-			"property":"powerFailureCooldown",
-			"value":"2.0"
-		}
+#		{
+#			"property":"powerFailureCooldown",
+#			"value":"2.0"
+#		}
 	]
 }
 const SYSTEM_DND_PMDrone = {
@@ -64,10 +64,10 @@ const SYSTEM_DND_PMDrone = {
 			"property":"visible",
 			"value":"false"
 		},
-		{
-			"property":"powerFailureCooldown",
-			"value":"2.0"
-		}
+#		{
+#			"property":"powerFailureCooldown",
+#			"value":"2.0"
+#		}
 	]
 }
 const SYSTEM_DND_PEXTMDrone = {
@@ -78,9 +78,9 @@ const SYSTEM_DND_PEXTMDrone = {
 			"property":"visible",
 			"value":"false"
 		},
-		{
-			"property":"powerFailureCooldown",
-			"value":"2.0"
-		}
+#		{
+#			"property":"powerFailureCooldown",
+#			"value":"2.0"
+#		}
 	]
 }
